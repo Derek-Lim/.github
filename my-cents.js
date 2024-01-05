@@ -1,2 +1,2 @@
-const cent = 1
-console.log(cent)
+const cents = 2
+console.log(cents)
